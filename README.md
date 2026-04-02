@@ -1,2 +1,1 @@
-# CSE110-Sp26-Lab1
-Lab 1
+Bowen's User Page
